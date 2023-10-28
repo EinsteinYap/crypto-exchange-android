@@ -1,0 +1,7 @@
+{
+  "name": "DCEX-MARKET",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
