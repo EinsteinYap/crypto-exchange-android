@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DCEX-MARKET</string>
+    <string name="title_activity_main">DCEX-MARKET</string>
+    <string name="package_name">co.dcex.decxApp</string>
+    <string name="custom_url_scheme">co.dcex.decxApp</string>
+</resources>
